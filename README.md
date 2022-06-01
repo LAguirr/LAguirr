@@ -2,6 +2,7 @@
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning algorythms with python
 - 💞️ I’m looking to collaborate on whatever
+- Je suis tres hereux de pouvoir travailler comment développeur
 
 
 <!---
